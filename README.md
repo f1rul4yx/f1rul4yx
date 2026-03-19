@@ -58,7 +58,7 @@ Actualmente trabajo principalmente con **Linux (Debian 13)** y disfruto cada dí
 
 ## 🎯 Proyectos Destacados
 
-### 🐧 [Linux_Customizer](https://github.com/f1rul4yx/Linux_Customizer)
+### 🐧 [bspwm-setup](https://github.com/f1rul4yx/bspwm-setup)
 Mi proyecto más avanzado hasta la fecha. Herramienta para personalizar y configurar sistemas Linux de forma automatizada.
 
 ### 📚 [docs.diegovargas.es](https://docs.diegovargas.es)
@@ -68,7 +68,7 @@ Mi sitio de documentación personal donde comparto conocimientos, guías y recur
 
 ## 🌱 Actualmente
 
-- 🔭 Trabajando en **Linux_Customizer** y expandiendo mi documentación técnica
+- 🔭 Trabajando en **bspwm-setup** y expandiendo mi documentación técnica
 - 📖 Profundizando en **Cloud Computing** y arquitecturas escalables
 - 🎓 Cursando 2º de **ASIR**
 - 🚀 Automatizando todo lo que se pueda automatizar
