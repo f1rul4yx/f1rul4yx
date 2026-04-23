@@ -3,7 +3,7 @@
 <div align="center">
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diegovargasgomezderequena/)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vargasgomezderequenadiego@gmail.com)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hola@diegovargas.es)
   [![Documentación](https://img.shields.io/badge/Docs-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)](https://docs.diegovargas.es)
   
 </div>
@@ -88,7 +88,7 @@ Mi sitio de documentación personal donde comparto conocimientos, guías y recur
 
 Si quieres colaborar en algún proyecto, tienes dudas técnicas o simplemente charlar sobre tecnología:
 
-- 📧 Email: [vargasgomezderequenadiego@gmail.com](mailto:vargasgomezderequenadiego@gmail.com)
+- 📧 Email: [hola@diegovargas.es](mailto:hola@diegovargas.es)
 - 💼 LinkedIn: [Diego Vargas](https://www.linkedin.com/in/diegovargasgomezderequena/)
 - 📖 Documentación: [docs.diegovargas.es](https://docs.diegovargas.es)
 
