@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy Diego Vargas
+# Diego Vargas
 
 <div align="center">
   
@@ -8,41 +8,47 @@
   
 </div>
 
-## 🚀 Sobre mí
+## Sobre mí
 
-Estudiante de **ASIR** (2º año) apasionado por la automatización y la infraestructura. Me encanta crear scripts que faciliten tareas, diseñar arquitecturas en cloud y montar escenarios completos con servicios reales. Si algo se puede automatizar, ¡cuenta conmigo para hacerlo!
+Administrador de sistemas apasionado por la automatización y la infraestructura. Titulado en **ASIR**, disfruto creando scripts que facilitan tareas, diseñando arquitecturas en cloud y montando escenarios completos con servicios reales. Si algo se puede automatizar, puedes contar conmigo.
 
-Actualmente trabajo principalmente con **Linux (Debian 13)** y disfruto cada día aprendiendo y construyendo soluciones que marquen la diferencia.
-
-### 💼 Experiencia
-- 🌍 **Prácticas en Innuos** - Portugal
-- 🇮🇹 **Tienda de informática** - Italia  
-- 🤝 **Convive** - 3 semanas de experiencia
+Trabajo principalmente con **Linux (Arch)** y cada día sigo aprendiendo y construyendo soluciones que marquen la diferencia.
 
 ---
 
-## 🛠️ Stack Tecnológico
+## Stack Tecnológico
 
 ### Lenguajes
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=flat-square&logo=oracle&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
 ### Infraestructura & DevOps
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
+![Arch](https://img.shields.io/badge/Arch-1793D1?style=flat-square&logo=archlinux&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
+![KVM](https://img.shields.io/badge/KVM-FF6600?style=flat-square&logo=kvm&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![OpenTofu](https://img.shields.io/badge/OpenTofu-FFDA18?style=flat-square&logo=opentofu&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
+### Herramientas
+![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+
 ### Áreas de interés
-🌐 **Redes** | ☁️ **Cloud Computing** | 🗄️ **Bases de Datos** | 🔧 **Automatización** | 📜 **Scripting** | 🖥️ **Administración de Sistemas**
+Redes | Cloud Computing | Bases de Datos | Automatización | Scripting | Administración de Sistemas
 
 ---
 
-## 📊 Estadísticas de GitHub
+## Estadísticas de GitHub
 
 <div align="center">
   
@@ -56,47 +62,46 @@ Actualmente trabajo principalmente con **Linux (Debian 13)** y disfruto cada dí
 
 ---
 
-## 🎯 Proyectos Destacados
+## Proyectos Destacados
 
-### 🐧 [bspwm-setup](https://github.com/f1rul4yx/bspwm-setup)
-Mi proyecto más avanzado hasta la fecha. Herramienta para personalizar y configurar sistemas Linux de forma automatizada.
+### [bspwm-setup](https://github.com/f1rul4yx/bspwm-setup)
+Herramienta para personalizar y configurar sistemas Linux de forma automatizada.
 
-### 📚 [docs.diegovargas.es](https://docs.diegovargas.es)
-Mi sitio de documentación personal donde comparto conocimientos, guías y recursos técnicos.
-
----
-
-## 🌱 Actualmente
-
-- 🔭 Trabajando en **bspwm-setup** y expandiendo mi documentación técnica
-- 📖 Profundizando en **Cloud Computing** y arquitecturas escalables
-- 🎓 Cursando 2º de **ASIR**
-- 🚀 Automatizando todo lo que se pueda automatizar
+### [docs.diegovargas.es](https://docs.diegovargas.es)
+Sitio de documentación personal donde comparto conocimientos, guías y recursos técnicos.
 
 ---
 
-## ⚡ Más sobre mí
+## Actualmente
 
-- 🎩 Aficionado a la **magia** (sí, trucos de cartas y demás)
-- 🏎️ Entusiasta del **simracing** en mis ratos libres
-- 💡 Me apasiona **crear soluciones** que faciliten el trabajo diario
-- 🤖 Si puedo escribir un script para algo, lo escribo
+- Manteniendo y ampliando **docs.diegovargas.es**
+- Profundizando en **Cloud Computing** y arquitecturas escalables
+- Automatizando todo lo que se pueda automatizar
 
 ---
 
-## 📫 ¿Hablamos?
+## Más sobre mí
+
+- Aficionado a la magia
+- Entusiasta del simracing
+- Apasionado por crear soluciones que faciliten el trabajo diario
+- Si puedo escribir un script para algo, lo escribo
+
+---
+
+## Contacto
 
 Si quieres colaborar en algún proyecto, tienes dudas técnicas o simplemente charlar sobre tecnología:
 
-- 📧 Email: [hola@diegovargas.es](mailto:hola@diegovargas.es)
-- 💼 LinkedIn: [Diego Vargas](https://www.linkedin.com/in/diegovargasgomezderequena/)
-- 📖 Documentación: [docs.diegovargas.es](https://docs.diegovargas.es)
+- Email: [hola@diegovargas.es](mailto:hola@diegovargas.es)
+- LinkedIn: [Diego Vargas](https://www.linkedin.com/in/diegovargasgomezderequena/)
+- Documentación: [docs.diegovargas.es](https://docs.diegovargas.es)
 
 ---
 
 <div align="center">
   
-  **¡Gracias por visitar mi perfil!** 😊
+  Gracias por visitar mi perfil
   
   ![Visitas al perfil](https://komarev.com/ghpvc/?username=f1rul4yx&color=blueviolet&style=flat-square)
   
