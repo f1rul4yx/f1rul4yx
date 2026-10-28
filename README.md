@@ -4,6 +4,7 @@
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diegovargasgomezderequena/)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hola@diegovargas.es)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio.diegovargas.es)
   [![Documentación](https://img.shields.io/badge/Docs-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)](https://docs.diegovargas.es)
   
 </div>
@@ -95,6 +96,7 @@ Si quieres colaborar en algún proyecto, tienes dudas técnicas o simplemente ch
 
 - Email: [hola@diegovargas.es](mailto:hola@diegovargas.es)
 - LinkedIn: [Diego Vargas](https://www.linkedin.com/in/diegovargasgomezderequena/)
+- Portfolio: [portfolio.diegovargas.es](https://portfolio.diegovargas.es)
 - Documentación: [docs.diegovargas.es](https://docs.diegovargas.es)
 
 ---
