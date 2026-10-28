@@ -94,10 +94,10 @@ Sitio de documentación personal donde comparto conocimientos, guías y recursos
 
 Si quieres colaborar en algún proyecto, tienes dudas técnicas o simplemente charlar sobre tecnología:
 
-- Email: [hola@diegovargas.es](mailto:hola@diegovargas.es)
-- LinkedIn: [Diego Vargas](https://www.linkedin.com/in/diegovargasgomezderequena/)
 - Portfolio: [portfolio.diegovargas.es](https://portfolio.diegovargas.es)
 - Documentación: [docs.diegovargas.es](https://docs.diegovargas.es)
+- LinkedIn: [Diego Vargas](https://www.linkedin.com/in/diegovargasgomezderequena/)
+- Email: [hola@diegovargas.es](mailto:hola@diegovargas.es)
 
 ---
 
